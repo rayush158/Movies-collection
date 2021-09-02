@@ -47,7 +47,7 @@ button {
 }
 
 .genre-selected {
-  background-color: peru;
+  background-color: rgb(199, 123, 48);
 }
 
 .movie-container {
@@ -59,9 +59,9 @@ button {
 }
 
 .movie-card {
-  background-color: rgba(229, 231, 235);
+  background-color: rgb(206, 215, 235);
   max-width: 800px;
-  border: 1px solid black;
+  border: 1.5px solid black;
   border-top-left-radius: 1rem;
   border-bottom-right-radius: 1rem;
   padding: 0.5rem 1rem;
